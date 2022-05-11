@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Micro Course in Leadership for Biomedical Informatics Students and Trainees"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-## Values in action
+## Leadership course
+
