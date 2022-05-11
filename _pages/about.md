@@ -10,3 +10,4 @@ redirect_from:
 
 ## Micro Course in Leadership for Biomedical Informatics Students and Trainees 
 
+a 5-week leadership development seminar series for students and trainees
