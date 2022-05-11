@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Values In Action"
+    url: /values_in_action/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Understanding Social Capital"
+    url: /social_capital/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Equity, Diversity, Inclusion"
+    url: /EDI/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Using Emotional Intelligence in Crucial Conversations"
+    url: /emotional_intelligence/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
