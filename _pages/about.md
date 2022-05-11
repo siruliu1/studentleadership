@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-## Leadership course
+## Micro Course in Leadership for Biomedical Informatics Students and Trainees 
 
